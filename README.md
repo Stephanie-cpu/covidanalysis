@@ -20,3 +20,9 @@ Through the development of our interactive Excel dashboard, we have been able to
 Specifically, we have found that certain demographics, such as the elderly and those with underlying health conditions, are at a higher risk of severe illness and death from COVID-19. Additionally, vaccination rates have had a significant impact on reducing infection rates and hospitalizations.
 
 Based on our findings, we recommend that policymakers prioritize the distribution of vaccines to high-risk populations and encourage continued efforts to promote vaccination to the general public. We also recommend that individuals continue to follow public health guidelines such as wearing masks and practicing social distancing, especially in high-risk situations. Our Excel dashboard can serve as a useful tool for tracking the progression of the pandemic and identifying areas where intervention is needed.
+
+----
+
+# Dashboard
+
+https://stephanieegharevba-my.sharepoint.com/:x:/g/personal/stephanieegharevba_stephanieegharevba_onmicrosoft_com/EeELtjFz0NtMn9uiQiq3WmEBKoNPgCsq_q5WMX3heMcy7Q?e=2Aoydi
